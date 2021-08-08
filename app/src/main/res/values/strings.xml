@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">My Library</string>
+    <string name="button_all_books">Show All Books</string>
+    <string name="button_currently_reading">Currently Reading Books</string>
+    <string name="button_already_read">Already Read Books</string>
+    <string name="button_wish_list">Your Wish List</string>
+    <string name="button_favorite">See your Favorites</string>
+    <string name="button_about">About</string>
+    <string name="textView_license">Develop by Shoaib Akhtar</string>
+    <string name="image_logo_description">Logo</string>
+    <string name="book_name">Book Name</string>
+    <string name="book_logo">Book Logo</string>
+    <string name="author">Author:</string>
+    <string name="author_placeholder">Author Name</string>
+    <string name="short_description_label">Short Description</string>
+    <string name="up_arrow">Up Arrow</string>
+    <string name="down_arrow">Down Arrow</string>
+    <string name="btn_txt_currently_reading">Currently Reading</string>
+    <string name="btn_txt_want_to_read">Want to Read</string>
+    <string name="btn_txt_already_read">Already Read</string>
+    <string name="btn_txt_add_to_favorite">Add to Favorite</string>
+    <string name="book_name_label">Book Name:</string>
+    <string name="author_label">Author:</string>
+    <string name="pages_label">Pages:</string>
+    <string name="no_of_pages">No of Pages</string>
+    <string name="long_des">Long Description</string>
+    <string name="txt_delete_button">Delete</string>
+    <string name="activity_all_books">All Books</string>
+    <string name="activity_already_read_book">Already Read Books</string>
+    <string name="activity_book">Book Details</string>
+    <string name="activity_currently_reading_book">Currently Reading Books</string>
+    <string name="activity_favorite_book">Favorite Books</string>
+    <string name="activity_want_to_read_book">Wish List</string>
+</resources>
